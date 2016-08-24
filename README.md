@@ -1,2 +1,2 @@
 # hello-world
-Aprendiendoba crear un repositorio hola mundo
+Aprendiendob a crear un repositorio
